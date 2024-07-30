@@ -38,6 +38,13 @@ This project is a front-end clone of the Discord website, designed to practice a
 
 ![image](https://github.com/user-attachments/assets/77448af2-7c95-4ce5-82fd-821afef3db40)
 ![image](https://github.com/user-attachments/assets/aa72a1f6-9a9b-408d-af7b-153a0385f49e)
+![image](https://github.com/user-attachments/assets/63915134-08fe-4329-8c9b-ed27f6c4306e)
+![image](https://github.com/user-attachments/assets/1045e4b7-7439-40eb-a594-bb187bf868d7)
+![image](https://github.com/user-attachments/assets/721fdc96-18dd-4f57-8148-de24ffafa324)
+![image](https://github.com/user-attachments/assets/b3ba36ef-2330-4f2b-aea3-704ecefd5c8f)
+![image](https://github.com/user-attachments/assets/e8901861-e59d-4cda-8987-67b1393ef5d5)
+
+
 
 
 ## Contributing
